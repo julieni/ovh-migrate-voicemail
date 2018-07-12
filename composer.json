@@ -1,0 +1,12 @@
+{
+    "name": "julieni/ovh-migrate-voicemail",
+    "require": {
+        "ovh/ovh": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Julien Issler",
+            "email": "julien@issler.net"
+        }
+    ]
+}
