@@ -1,5 +1,7 @@
 # OVH migrate voicemail
 
+__Warning : OVH process does not migrate existing messages to the new voicemail, so there's a risk of data loss at the moment.__
+
 Get dependencies with composer
 
 ```composer install```
